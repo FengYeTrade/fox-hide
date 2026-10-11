@@ -1,0 +1,6 @@
+id=foxhide_root_conceal
+name=FoxHide Root Conceal
+version=v1.0
+versionCode=100
+author=FengYeTrade
+description=深度隐藏 Root 环境：伪装 Bootloader 锁定与 Verified Boot 状态、伪造系统安全属性、隐藏 su/Magisk 痕迹、清理环境变量与可检测路径。支持 Magisk / KernelSU / APatch 全部 Root 管理器安装。
